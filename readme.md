@@ -1,0 +1,1 @@
+ns-rzopnikmug.now.sh

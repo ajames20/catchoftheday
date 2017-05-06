@@ -21,3 +21,7 @@ const Root = () => {
 }
 
 render(<Root />, document.querySelector('#main'));
+
+
+// link to active build on now.sh
+// ns-rzopnikmug.now.sh/store/:ugliest-nervous-mice (https)
